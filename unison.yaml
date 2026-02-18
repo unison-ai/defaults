@@ -1,0 +1,7 @@
+snippets:
+  - path: "rules/unison-agent.md"
+    title: "Unison Agent"
+    type: "rule"
+    target: ["claude"]
+    description: "Enables AI agents to manage Unison snippets"
+    tags: ["agent", "core"]
